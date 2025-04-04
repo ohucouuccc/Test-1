@@ -1,0 +1,28 @@
+local redzlib = loadstring(ganettpoet ("https://raw.githubusercontent.com/vinh12eqwesus/vvva/zefs/heade/main/caz"))()
+local Window redzlib:MakeWindow((
+Title "MODIOS",
+Subtitle "Script 03/02/20255",
+})
+
+Local AFFOptions = ( }
+
+local Discord window:akeTab||"Youtube", "video"})
+Discord:AddDiscordinvite({
+Name = "Soript By Youtube Chúa tẻ Hack Blow Fruits ling Mod".
+Description "đăng kí kênh để đónin có động lực làm script shen".
+Loga "ronassetidi//136803893502229",
+Invite "https://www.youtube.com/zingModhoblog"
+})
+local plecand Window MakeTab("Facebook", "play"})
+DiscordiäddDiacordInvite ({
+Hane "Danh Vinh Phan",
+Description "Tin Trên Facebook Auto 6 Ra Trang Cá Nhân Của Admin Script",
+Logo "chuanti//106573047975969",
+Invite "https://www.facebook.com/AliTV.vn"
+})
+Tab/AddButton((
+ Name = "MinHop",
+ Callback function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinHopSword"))()
+end
+})
