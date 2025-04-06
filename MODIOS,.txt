@@ -1,28 +1,42 @@
-local redzlib = loadstring(ganettpoet ("https://raw.githubusercontent.com/vinh12eqwesus/vvva/zefs/heade/main/caz"))()
-local Window redzlib:MakeWindow((
-Title "MODIOS",
-Subtitle "Script 03/02/20255",
+local OrionLib = loadstring(HttpGet(('https://raw.gihubusercontent.com/vinh12eqweaws/zingmod/reds/head/main/zingpro'))()
+
+localWindow = OrionLib:MakeWindow({Name = "MODIOS",Hidepremium = false, SaveConfigFolder = "dxl_bf"})
+
+localTab1 = Window:MakeTab({
+    Name = "1",
+    lcon = "rbxassetid://4483345998",
+    premiumOnly = false
 })
 
-Local AFFOptions = ( }
+localTab2 = Window:MakeTab({
+    Name = "2",
+    lcon = "rbxassetid://4483345998",
+    premiumOnly = false
+})
 
-local Discord window:akeTab||"Youtube", "video"})
-Discord:AddDiscordinvite({
-Name = "Soript By Youtube Chúa tẻ Hack Blow Fruits ling Mod".
-Description "đăng kí kênh để đónin có động lực làm script shen".
-Loga "ronassetidi//136803893502229",
-Invite "https://www.youtube.com/zingModhoblog"
+localTab3 = Window:MakeTab({
+    Name = "3",
+    lcon = "rbxassetid://4483345998",
+    premiumOnly = false
 })
-local plecand Window MakeTab("Facebook", "play"})
-DiscordiäddDiacordInvite ({
-Hane "Danh Vinh Phan",
-Description "Tin Trên Facebook Auto 6 Ra Trang Cá Nhân Của Admin Script",
-Logo "chuanti//106573047975969",
-Invite "https://www.facebook.com/AliTV.vn"
+
+localTab4 = Window:MakeTab({
+    Name = "4",
+    lcon = "rbxassetid://4483345998",
+    premiumOnly = false
 })
-Tab/AddButton((
- Name = "MinHop",
- Callback function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinHopSword"))()
+Tab1AddButton{(
+    Name = "FIX LAG",
+    Callback = function()
+        repeat wati(5) until game:IsLoaded()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
+end
+})
+
+Tab1AddButton{(
+    Name = "FIX LAG",
+    Callback = function()
+        repeat wati(5) until game:IsLoaded()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
 end
 })
